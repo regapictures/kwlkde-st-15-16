@@ -9,3 +9,8 @@ C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\O
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\Bank\bin\Debug\Bank.pdb
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\Bank\obj\Debug\Bank.dll
 C:\Users\Kevin Picalausa\Documents\ODISEE\Dropbox\Kwaliteitskunde 3ICT\Opgaven\Opgave_2013_2014\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Robin\Documents\School\Kwaliteitskunde voor ICT\kwlkde-st-15-16\Bank\Bank\bin\Debug\Bank.dll
+C:\Users\Robin\Documents\School\Kwaliteitskunde voor ICT\kwlkde-st-15-16\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Robin\Documents\School\Kwaliteitskunde voor ICT\kwlkde-st-15-16\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Robin\Documents\School\Kwaliteitskunde voor ICT\kwlkde-st-15-16\Bank\Bank\obj\Debug\Bank.dll
+C:\Users\Robin\Documents\School\Kwaliteitskunde voor ICT\kwlkde-st-15-16\Bank\Bank\obj\Debug\Bank.pdb
